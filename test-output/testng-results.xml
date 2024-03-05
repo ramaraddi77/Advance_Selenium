@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-09T16:50:30 IST" name="Default suite" finished-at="2024-01-09T16:51:44 IST" duration-ms="73816">
+    <groups>
+    </groups>
+    <test started-at="2024-01-09T16:50:30 IST" name="Default test" finished-at="2024-01-09T16:51:44 IST" duration-ms="73816">
+      <class name="TestNG_Basic_Framework.Test_Script_1">
+        <test-method is-config="true" signature="Openapp()[pri:0, instance:TestNG_Basic_Framework.Test_Script_1@2fd1433e]" started-at="2024-01-09T16:50:30 IST" name="Openapp" finished-at="2024-01-09T16:50:44 IST" duration-ms="14079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openapp -->
+        <test-method signature="Register(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNG_Basic_Framework.Test_Script_1@2fd1433e]" started-at="2024-01-09T16:50:44 IST" name="Register" data-provider="RegisterCred" finished-at="2024-01-09T16:51:09 IST" duration-ms="25484" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bg]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ramaradd21@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9632092368]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method is-config="true" signature="Closeapp()[pri:0, instance:TestNG_Basic_Framework.Test_Script_1@2fd1433e]" started-at="2024-01-09T16:51:09 IST" name="Closeapp" finished-at="2024-01-09T16:51:10 IST" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closeapp -->
+        <test-method is-config="true" signature="Openapp()[pri:0, instance:TestNG_Basic_Framework.Test_Script_1@2fd1433e]" started-at="2024-01-09T16:51:10 IST" name="Openapp" finished-at="2024-01-09T16:51:19 IST" duration-ms="9264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Openapp -->
+        <test-method signature="Register(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestNG_Basic_Framework.Test_Script_1@2fd1433e]" started-at="2024-01-09T16:51:19 IST" name="Register" data-provider="RegisterCred" finished-at="2024-01-09T16:51:41 IST" duration-ms="22020" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RAM]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[BG]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ramaraddi61@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[9945212177]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method is-config="true" signature="Closeapp()[pri:0, instance:TestNG_Basic_Framework.Test_Script_1@2fd1433e]" started-at="2024-01-09T16:51:41 IST" name="Closeapp" finished-at="2024-01-09T16:51:44 IST" duration-ms="2084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closeapp -->
+      </class> <!-- TestNG_Basic_Framework.Test_Script_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
